@@ -9,7 +9,7 @@ Usage without internet connection : Self database + Database in browser
 
 
 Internal dependencies :
-- Hebrew calendar
+- Hebrew calendar with moré shiur
 - parashiot devision
 
 thank to Sefaria-Export
