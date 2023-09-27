@@ -1,7 +1,7 @@
 # daily-study
 daily study of Chumash Tanya Rambam Yom yom (no Tehilim for the moment)
 
-I am intending to have one plate to do my daily study
+I am intending to have one place to do my daily study
 
 Goals :
 Lite and simple
